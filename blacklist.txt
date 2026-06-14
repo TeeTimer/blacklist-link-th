@@ -3,3 +3,8 @@
 0.0.0.0 ambslot44.pro
 0.0.0.0 ibit.ly/pgw44
 0.0.0.0 www.pgsloth2.com
+0.0.0.0 i.imgur.com/ridTjFi.gif
+0.0.0.0 i.imgur.com/7Mo0EfJ.gif
+0.0.0.0 i.imgur.com/Ul1V6in.gif
+0.0.0.0 i.imgur.com/MG7BNWU.gif
+0.0.0.0 i.imgur.com/ZAatQS3.gif
